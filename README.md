@@ -12,7 +12,7 @@ I'm Mattie, a Full-stack Web Developer, ex-Client Success Manager, dedicated to 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 
-## I'm currently learning
+## 👩🏼‍🏫 I'm currently learning
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![](https://img.shields.io/badge/TailwindCss-informational?style=flat&logo=TailwindCss&logoColor=ColorName&color=black)
 
