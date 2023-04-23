@@ -10,7 +10,6 @@ I'm Mattie, a Full-stack Web Developer, ex-Client Success Manager, dedicated to 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![ReactNative](https://img.shields.io/badge/-React-Native-black?style=flat-square&logo=reactnative)
 
 
 ## I'm currently learning
