@@ -2,7 +2,7 @@
 
 I'm Mattie, a Full-stack Web Developer, ex-Client Success Manager, dedicated to making high-quality web apps with a sleek design and smooth UX.
 
-## I'm building with
+## My technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
