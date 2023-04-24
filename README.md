@@ -16,6 +16,11 @@ I'm Mattie, a Full-stack Web Developer, ex-Client Success Manager, dedicated to 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![](https://img.shields.io/badge/TailwindCss-informational?style=flat&logo=TailwindCss&logoColor=ColorName&color=black)
 
+## 📬 Contact me!
+<a href="https://www.linkedin.com/in/mattiebarton/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
 
 <!--
 **maitlandbarton/maitlandbarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
