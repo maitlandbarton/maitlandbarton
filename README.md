@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mattie, a Full-stack Web Developer, ex-Client Success Manager, dedicated to making high-quality web apps with a sleek design and smooth UX.
+I'm Mattie, a Full-stack Web Developer, ex-Client Success Manager, dedicated to making high-quality web apps with an intuitive design that are both responsive and scalable.
 
 ## ⚡️ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
