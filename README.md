@@ -10,11 +10,12 @@ I'm Mattie, a Full-stack Web Developer, ex-Client Success Manager, dedicated to 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![](https://img.shields.io/badge/TailwindCss-informational?style=flat&logo=TailwindCss&logoColor=ColorName&color=black)
 
 
 ## 👩🏼‍🏫 Currently learning...
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![](https://img.shields.io/badge/TailwindCss-informational?style=flat&logo=TailwindCss&logoColor=ColorName&color=black)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 ## 📬 Contact me!
 <a href="https://www.linkedin.com/in/mattiebarton/">
